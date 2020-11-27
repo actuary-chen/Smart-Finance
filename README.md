@@ -1,4 +1,7 @@
 # Smart-Finance
+Video in Chinese
+[![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
+Business Model
 ![image](/images/投影片01.jpg)
 ![image](/images/投影片02.jpg)
 ![image](/images/投影片03.jpg)
