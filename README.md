@@ -1,5 +1,5 @@
 # Smart-Finance
-# Video in Chinese
+# Social margin trading & pledge lending video in Chinese
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
 # Business Model
 ![image](/images/投影片01.jpg)
