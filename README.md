@@ -1,7 +1,8 @@
-# Smart-Finance
-# Social margin trading & pledge lending video in Chinese
+# Smart-Finance 智能金融
+# 社群保證金交易, 質借與投資分券
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
-# Business Model
+# Social margin trading, pledge lending, investment tranches video
+[![](http://img.youtube.com/vi/ZifyoLsVPvw/0.jpg)](http://www.youtube.com/watch?v=ZifyoLsVPvw "Margin trading & pledge lending")# Business Model
 ![image](/images/投影片01.jpg)
 ![image](/images/投影片02.jpg)
 ![image](/images/投影片03.jpg)
