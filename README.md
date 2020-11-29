@@ -3,7 +3,7 @@
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
 #
 # Social margin trading, pledge lending and investment tranches
-[![](http://img.youtube.com/vi/ZifyoLsVPvw/0.jpg)](http://www.youtube.com/watch?v=ZifyoLsVPvw "Margin& pledge")
+[![](http://img.youtube.com/vi/ZifyoLsVPvw/3.jpg)](http://www.youtube.com/watch?v=ZifyoLsVPvw "Margin& pledge")
 #
 # Business Model
 ![image](/images/投影片01.jpg)
