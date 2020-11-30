@@ -4,7 +4,7 @@ Codes are available 程式碼已完成
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
 # Social margin trading, pledge lending and investment tranches (Subtitle for English)
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=ZifyoLsVPvw "Margin& pledge")
-# Business Model Summary (Detail & Chinese version available upon request by sponsor 詳細營運計畫檔案過大另行提供)
+# Business Model Summary (Detail & Chinese version available upon request by sponsor 詳細營運計畫檔案過大另行提供, 而且目前僅有中文版本)
 ![image](/images/投影片01.jpg)
 ![image](/images/投影片02.jpg)
 ![image](/images/投影片03.jpg)
