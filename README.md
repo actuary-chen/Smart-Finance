@@ -1,6 +1,6 @@
 # Smart-Finance
 Codes are available 程式碼已完成
-# 社群保證金交易, 質借與投資分券(中文)
+# 影片：社群保證金交易, 質借與投資分券(中文)
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=v4LLT9rDiuA "Margin Trading & Pledge Lending")
 # Social margin trading, pledge lending and investment tranches (Subtitle for English)
 [![](http://img.youtube.com/vi/v4LLT9rDiuA/0.jpg)](http://www.youtube.com/watch?v=ZifyoLsVPvw "Margin& pledge")
