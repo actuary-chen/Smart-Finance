@@ -26,3 +26,4 @@ Codes are available 程式碼已完成
 ![image](/images/投影片19.jpg)
 ![image](/images/投影片20.jpg)
 ![image](/images/投影片21.jpg)
+![image](/images/投影片22.jpg)
